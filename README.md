@@ -10,7 +10,7 @@ Instalar Node.js
 https://nodejs.org/en/download/
 ```
 
-## Instação
+## Instalação
 
 ```
 git clone https://github.com/claudioonohara/mega_sena_resultado.git
