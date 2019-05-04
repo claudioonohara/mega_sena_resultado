@@ -1,0 +1,30 @@
+{
+  "name": "mega_sena_resultados",
+  "version": "1.0.0",
+  "description": "Retorna ultimo número sorteado da Mega Sena",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudio Onohara",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.15.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudioonohara/mega_sena_resultados.git"
+  },
+  "keywords": [
+    "mega",
+    "sena",
+    "ultimo",
+    "resultado"
+  ],
+  "bugs": {
+    "url": "https://github.com/claudioonohara/mega_sena_resultados/issues"
+  },
+  "homepage": "https://github.com/claudioonohara/mega_sena_resultados#readme"
+}
